@@ -27,10 +27,6 @@ module.exports = {
         nav: [{
                 text: 'Contact Us',
                 link: '/contact/',
-            },
-            {
-                text: 'Admin',
-                link: '/admin',
             }
         ]
 
