@@ -2,9 +2,9 @@ module.exports = {
     title: "Staker House",
     locales: {
         '/': {
-            lang: 'de-DE',
+            lang: 'en-US',
             title: 'Staker House',
-            description: 'Vuepress with Netlify Deploy Button'
+            description: 'Staking Provider'
         }
     },
     head: [
