@@ -3,7 +3,7 @@ module.exports = {
     locales: {
         '/': {
             lang: 'de-DE',
-            title: 'VuePress Deploy',
+            title: 'Staker House',
             description: 'Vuepress with Netlify Deploy Button'
         }
     },
